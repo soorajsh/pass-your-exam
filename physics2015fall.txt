@@ -1,0 +1,45 @@
+a					POKHARA UNIVERSITY
+
+Level: Bachelor				Semester:Fall							Year:2016
+Programme:BE												Full Marks:100
+Course: Physics										                Pass Marks:45
+													Time: 3hrs
+
+Candidates are required to give their answers in their own words as far as practicable.
+The figures in the margin indicate full marks.
+
+Attempt all the questions.
+
+1.	a) Define point of oscillation and the radius of gyration in a compound pendulum. also, prove that
+	   time-period of any physical pendulum is minimum, not maximumwhen the length of pendulum is equal
+	   to radius of gyration.                                                                                [9]
+	b) Calculate the frequency of vibration of air particles in plane progresiive wave of amplitude 
+	   2.18 x10^-10 m and intensity 10^-10 w/m^2. (The velocity of sound in air is 340 m/s and density
+	   of air is 0.00129 gm/cc).                                                                             [6]
+
+2.	a) What is interference? Discuss Newton's ring and hence derive an expression for the radius of 
+	   n^th dark ring due to reflected light.And explain why central ring is dark.                            [9]
+	b) A soap film 5x10^-5 cm thick is viewed at an angle 35 degree to the normal. Find the wavelength in the 
+	   visible spectrum which will be absent from the light if the refractive index of the soap film is 1.33. [6]
+
+
+3.	a) Discuss the design of optical fibre and explain its working principle.                                  [9]
+	b) Find the potential at the centre of the square having charges 2x10^-6 C,3x10^-6 C,4x10^-12 C and 
+	   -4x10^-4 C at four corners.                                                                             [6]
+
+
+4.	a) Show that potential V .....................................................                             [9]
+	b) What is initial rate of increase of current and final saturation current in RL circuit with L=15mH,
+	   R=24 Ohm and emf=10 volt?                                                                               [6]
+
+5.	a) State Biot-Savart's law.Use it to find the magnetic field due to an infinitely long straight wire.       [9]
+	b) A light beam travelling in x direction is described by electric field ................................   [6]
+
+6.	a) Write the Maxwell's equqtion in integral form convert them in its differential form.                     [9]
+	b) The fast moving neutron has wave associated with it, whose De-Broglie wavelength is 2x10^-12 m.
+	   Find the phase velocity, group velocity and kinetic energy.                                              [6]
+
+7.	Write short notes on:(Any two)                                                                            [2x5]
+	a) Piezoelectric effect and Magnetostriction effect.
+	b) Band theory of solid.
+	c) Lorentz electromagnetic force.
