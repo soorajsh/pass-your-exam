@@ -1,0 +1,64 @@
+						POKHARA UNIVERSITY
+
+Level: Bachelor					  Semester:Fall							Year:2016
+Programme:BE													Full Marks:100
+Course: Problem Solving Techniques										Pass Marks:45
+														Time: 3hrs
+
+Candidates are required to give their answers in their own words as far as practicable.
+The figures in the margin indicate full marks.
+
+Attempt all the questions.
+
+1.	a) Suppose you are told in advance that 10 of the catlles present are lame, and only have 
+	   three feet. But the count yields 120 heads and 300 feet. How many cattle and  how many
+	   people are there?
+	b) An auditorium has 500 seats. The decorator has three different colours of fabric - red,
+	   blue and yellow, and will randomly uphotster each seat with one of the three colours.So
+	   some will end up red, some bliie, and some yellow, with  no particular  pattern. In how 
+	   many different ways can this be done?	   
+
+2.	a) Imagine five planes in 3D space are kept in general position. Now find out into how many
+	   regions will these planes divide the space?
+	b) To tile a Hoor with circular tile, which method is essential-rectangular or hexagonal way
+	   of putting the circular tiles?
+
+3.	a)
+
+	b) Examine the equation
+	   			 1 = 1
+			     1 - 4 = -(1 + 2)
+			 1 - 4 + 9 = 1 + 2 + 3
+		    1 - 4 + 9 - 16 = -(1 + 2 + 3 + 4)
+		Determine the pattern and prove this identity.
+
+4.	a) Consider the addition problem.
+		LETS
+		WAVE
+		----
+		LATER
+      	   where different letters stand for the different digits and two occurences of letters stand 
+	   for same digits. Find all digits.
+	b) Which one is greater -sin(cosx) or cos(sinx)?
+
+5.	a) There are four couples that needs to cross a river. A small boat is available that will hold 
+	   just two people at a time. The males involved are quite jealous. No women can be left with a man
+	   unless her husband is also present. There are no other constraints. Devise a crossing strategy 
+	   for minimum number of trips, so that each one gets crossed.
+	b) A 10 years old child puts $100 in the bank. She intended to withdraw the money on her 21st birthday.
+	   Which one is better for her
+	   	i. an account with 5% interest compounded daily, or
+	       ii. an account with 5.1% interest compounded weekly?
+
+6. 	a) What is the last digit of 3^(65221) ?
+	b) Consider the polyhedron with 5 triangular faces meeting at each vertex. Find number of faces, edges 
+	   and vertices.
+	c) Try to find out multi-digit number that is multiplied by the number 9(nine) or any of its multiplication
+	   product(18, 27, 36, ...) which results in the multiplication factor repeat n number of times?
+
+7. 	Write short notes on:(Any two)
+	a) Application of PST in programming.
+	b) Magic Square.
+	c) Impossible problems. 
+
+		
