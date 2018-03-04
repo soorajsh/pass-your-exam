@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "pst2016fall.h"
+#include "pstquestion.h"
 
 int main()
 {
