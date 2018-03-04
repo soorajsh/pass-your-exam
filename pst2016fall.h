@@ -64,7 +64,7 @@ void pst()
 void pst2016fall()
 {
     FILE *fpointer;
-    fpointer = fopen("pstfall2016f.txt","r");
+    fpointer = fopen("pst/pstfall2016f.txt","r");
 
     char qfall_2016[500];
 
@@ -81,7 +81,7 @@ void pst2016fall()
 void pst2016spring()
 {
     FILE *fpointer;
-    fpointer = fopen("pstfall2016s.txt","r");
+    fpointer = fopen("pst/pstfall2016s.txt","r");
 
     char qspring_2016[500];
 
@@ -98,7 +98,7 @@ void pst2016spring()
 void pst2017fall()
 {
     FILE *fpointer;
-    fpointer = fopen("pstfall2017f.txt","r");
+    fpointer = fopen("pst/pstfall2017f.txt","r");
 
     char qfall_2017[500];
 
@@ -115,7 +115,7 @@ void pst2017fall()
 void pst2017spring()
 {
     FILE *fpointer;
-    fpointer = fopen("pstfall2017s.txt","r");
+    fpointer = fopen("pst/pstfall2017s.txt","r");
 
     char qspring_2017[500];
 
