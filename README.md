@@ -3,4 +3,4 @@
 2. Compile menu.c
 3. Have fun
 
-Note: All download files must be in same folder.
+Note: All downloaded files must be in same folder.
