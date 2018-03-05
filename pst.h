@@ -26,7 +26,7 @@ void pst()
                 break;
 
                 default:
-                    printf("\nSorry not available\n");
+                    printf("\nInvalid Input\n");
                 break;
             }
         }
@@ -49,7 +49,7 @@ void pst()
                 break;
 
                 default:
-                    printf("\nSorry not available");
+                    printf("\nInvalid Input\n");
                 break;
             }
         }
