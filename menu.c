@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "pstquestion.h"
+#include "pst2016fall.h"
 
 int main()
 {
@@ -62,57 +62,59 @@ int main()
 
     							switch (c3)
     							{
-                                        		case 1:
-                                        			for(;;)
-                                            			{
-									printf("\nSubjects:");
-									printf("\n1.Engineering Mathematics-I");
-									printf("\n2.Engineering Physics-I");
-									printf("\n3.Communication Technique");
-									printf("\n4.Problem Solving Techniques");
-									printf("\n5.Programming in C");
-									printf("\n6.Basic Electrical Engineering");
-									printf("\n7.Back to previous Menu");
-									printf("\n8.Exit");
-									printf("\nEnter a number from 1-8:-");
-									scanf("%d",&c4);
-									switch (c4)
-									{
+                                        case 1:
+                                        	for(;;)
+                                            {
+													printf("\nSubjects:");
+													printf("\n1.Engineering Mathematics-I");
+													printf("\n2.Engineering Physics-I");
+													printf("\n3.Communication Technique");
+													printf("\n4.Problem Solving Techniques");
+													printf("\n5.Programming in C");
+													printf("\n6.Basic Electrical Engineering");
+													printf("\n7.Back to previous Menu");
+													printf("\n8.Exit");
+													printf("\nEnter a number from 1-8:-");
+													scanf("%d",&c4);
+													switch (c4)
+													{
 
-	 									case 1:
-											system("cls");
-											printf("\nEngineering Mathematics-I \n");
-										break;
-										case 2:
-											system("cls");
-											printf("\nEngineering Physics-I");
-										break;
-										case 3:
-											system("cls");
-											printf("\nCommunication Technique");
-										break;
-										case 4:
-											system("cls");
-											pst();
-										break;
-										case 5:
-											system("cls");
-											printf("\nProgramming in C");
-										break;
-										case 6:
-											system("cls");
-											printf("\nBasic Electrical Engineering");
-										break;
-										case 7:
-											goto SEMESTER;
-										break;
-										case 8:
-											exit(0);
-										default:
-											printf("\nInvalid Input.");
-									}
+														case 1:
+															system("cls");
+															printf("\nEngineering Mathematics-I \n");
+															break;
+														case 2:
+															system("cls");
+															printf("\nEngineering Physics-I");
+															break;
+														case 3:
+															system("cls");
+															printf("\nCommunication Technique");
+
+															break;
+														case 4:
+															system("cls");
+															printf("Problem Solving Techniques\n");
+																pst();
+															break;
+														case 5:
+															system("cls");
+															printf("\nProgramming in C");
+															break;
+														case 6:
+															system("cls");
+															printf("\nBasic Electrical Engineering");
+															break;
+														case 7:
+															goto SEMESTER;
+															break;
+														case 8:
+															exit(0);
+														default:
+															printf("\nInvalid Input.");
+													}
                                             }
-									case 2:
+										case 2:
 										    printf("\nSorry!!\n\n\n\n\n\n\n");
     										break;
     									case 3:
@@ -125,7 +127,7 @@ int main()
     									    printf("\nSorry!!\n\n\n\n\n\n\n");
     										break;
     									case 6:
-   				                                            printf("\nSorry!!\n\n\n\n\n\n\n");
+                                            printf("\nSorry!!\n\n\n\n\n\n\n");
     										break;
     									case 7:
     									    printf("\nSorry!!\n\n\n\n\n\n\n");
@@ -139,7 +141,7 @@ int main()
     									case 10:
     									    exit(0);
     									default:
-    				      					    printf("\nInvalid Input.");
+    										printf("\nInvalid Input.");
 								}
     						}
     					case 2:
@@ -148,20 +150,20 @@ int main()
     					case 3:
     					    printf("\nSorry!!\n\n\n\n\n\n\n");
     						break;
-                		        case 4:
+                        case 4:
     					    printf("\nSorry!!\n\n\n\n\n\n\n");
     						break;
-                        		case 5:
+                        case 5:
     					    printf("\nSorry!!\n\n\n\n\n\n\n");
     						break;
     					case 6:
-                            		    system("cls");
+                            system("cls");
     					    goto MENU;
-                            		break;
-                        		case 7:
-    					    exit(0);
+                            break;
+                        case 7:
+    						exit(0);
     					default:
-    					    printf("\nInvalid Input.");
+    						printf("\nInvalid Input.");
 
 					}
     			}
