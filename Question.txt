@@ -1,0 +1,69 @@
+
+   		        POKHARA UNIVERSITY
+    Level: Bachelor				
+    Semester:Fall					                    Year:2015
+    Programme:BE 						 Full Marks:100
+    Course: Progtraming in C					Pass Marks:45
+    Time: 3hrs
+    Candidates are required to give their answers in their own words as far as practicable.
+    The figures in the margin indicate full marks.
+
+    Attempt all the questions.
+
+1.a]. What is a flowchart ? write an algorithm and draw a flow chart to 
+      display wheather a name is prime or not.
+  b].  why header file in C is include in program  ? Give resion. also list out
+      different files you know .Illusatrate the program showing the use of
+      header file.
+2.a]. Define operator in C . list diffferent type of operator used in C.
+      Explain three of them with example .
+   b]. An electricity board charges according to the following rates.
+     For first 100 units .................Rs 40 per unit. 
+     For next 200 units .................Rs 50 per unit.
+     For first 300 units .................Rs 60 per unit.
+     All user are also charges meter charge, which is equal to Rs 50 . Write a  
+     program to read of units consumed and print out the total charges.
+
+3. a]. write da program to a matrix and find the the sum of all the digits in its
+       main Diagonal .
+    b]. Define function prototype ? Write a program to read an integer number and find 
+       the sum of its digits using recursive function. 
+		OR
+4. a]. what is pointer ? Expain memory allocation in C programming . Why dynamic memory 
+       allocation is better ? 
+   b]. Write a program using pointer to read in an array of integers . Next and the
+      elements in the array and display the sum in the screen .
+
+5. a]. Define structure and union .Explian way of declaring and accessing member of 
+      them with suitable example.
+   b].  Write a program to read the name ,author ,and price of 500 books in a library 
+       from the file "library.dat" .Now print the bok name and price of those books 
+       whose price is above Rs.300.
+
+6. a]. What do you mean by nested structure ? Write a program to explain nested structure.
+    b]. Find the output.
+      #
+      #
+      void main ()
+      { 
+	int x=4;
+	printf("'%d'\n",x);
+	fun("%d",x);
+	printf("%d\n",x);
+      }
+      fun(int*p)
+     {
+        *p=*p/2+13;
+     }
+    c]. Difference between user defined and libraray function with suitable examples.
+
+7].   Write short notes  on:
+     a) Switch case statement.
+     b) Binary and unary operators.
+     c) File opening in C.
+
+
+ 			*********THE END******
+
+
+   
