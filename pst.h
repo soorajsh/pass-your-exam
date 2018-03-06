@@ -1,3 +1,8 @@
+void pst2016fall();
+void pst2016spring();
+void pst2017fall();
+void pst2017spring();
+
 void pst()
 {
     int year;
