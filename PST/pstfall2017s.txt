@@ -1,0 +1,74 @@
+						POKHARA UNIVERSITY
+
+Level: Bachelor					  Semester:Spring					Year:2017
+Programme:BE												Full Marks:100
+Course: Problem Solving Techniques									Pass Marks:45
+													Time: 3hrs
+
+	Candidates are required to give their answers in their own words as far as practicable.
+	The figures in the margin indicate full marks.
+
+	Attempt all the questions.
+
+1. 	a) Determine how many zeros end the number 1001! + 305!.  
+ 	b) What is the last digit of 7^4563? 
+	c) Use mathematical induction to prove the following statements: 
+	   (7^n - 1) is divisible by 6. 
+	d) If a^2 +b^2 +c^2 +d^2 ==ab+bc+cd+da then show that 
+	   a=b=c=d
+ 
+2. 	a) Prove the law of sines: if ABC is a triangle, then 
+	sinA     sinB    sin C 
+	----  =  ----  = -----	
+         BC       AC       AB
+	b) Find the number of vertex, edge and face if polyhedron with three pentagonal faces meets 
+	   at each vertex. 
+
+3.	a) There are eighty marbles all looks the sanie but one is lighter find it in four weighing? 
+	b) Solve the given Crypto-arithmetic problem in which all different letters denote different 
+	   integers. Identical letters denote the same integers. 
+	   ABCD + HEFG = EDAF	
+		OR 
+	   Examine the equations 
+			  1 = 1 
+			1-4 = -(1+2) 
+		      1-4+9 = 1+2+3  
+		   1-4+9-16 = -(1+2+3+4) 
+	   Determine the pattern and prove the identity.
+ 
+4. 	a) Demonstrate that if n is a positive integer exceeding 2 then 360 divides the number 
+	   n^2(n^2 - l)(n^2 - 4). 
+	b) Six people, named A, B. C, D, E, F, are in the dining car of a train. They are one each from
+	   New York City, Chicago, Tulsa, St. Louis, Milwaukee, and Atlanta. The following facts are known: 
+	   i. A and the man from New York City is physicians. 
+	  ii. E and the woman from Chicago are teachers. 
+	 iii. The person from Tulsa and C are engineers. 
+	  iv. B and F are veterans of the Gulf war, but the person from  Tulsa has never 
+	      served in the military. 
+	   v. The person from Milwaukee is older than A. 
+	  vi.The person from Atlanta is older tlian C. 
+	 vii. At St. Louis, B and the man from New York get off. 
+	viii. At San Francisco, C and the man from Milwaukee gets off. 
+	Match the names of the people with their professions and their cities.
+ 
+5.	a) A right angled triangle has sides of length 1, m and 10. Note that 10 is not the hypotenuse, and 
+	   that both 1 and m are integers. Find out the values of 1 and m such that with these three sides, 
+	   right angled triangles can be formed. 
+	b) In a 4x 4 array of squares, put the first sixteen odd integers 1 to 31, one in each square, so that 
+	   each row and each column adds up to same number. 
+	c) On Friday evening the weatherperson predicts 50% chance of rain on Saturday and 50% chance of rain
+	   on Sunday. What is the probability that it will rain at some time this weekend?
+ 
+6.	a) An efficiency expert is doing study of a certain fast food restaurant. She observes that a particular 
+	   waiter drops 30% of all the hamburgers that he serves. What is the probability that he will drop exactly
+	   4 out of 10? 
+	b) You have a piece of paper with a circle of radius between 2 inch and 4 inch drawn on it. You also have a 
+	   plastic square of side 10 inches. You have no ruler and no compass. How can you find the center of the 
+	   circle? 
+	c) On Friday evening the weatherperson predicts 50% chance of rain on Saturday and 50% chance of rain
+	   on Sunday. What is the probability that it will rain at some time this weekend?
+
+7.	Write short notes on: (Any two) 
+	a) Use of problem solving technique
+	b) Magic Square
+	c) Impossible problems
